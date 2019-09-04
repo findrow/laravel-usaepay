@@ -1,5 +1,5 @@
 {
-    "name": "jundelleb/laravel-usaepay",
+    "name": "findrow/laravel-usaepay",
     "description": "A PHP library that allows you to connect to USAePay gateway and run transactions with less configurations needed.",
     "keywords": [
         "usaepay",
@@ -7,7 +7,7 @@
         "php",
         "laravel"
     ],
-    "homepage": "https://github.com/jundelleb/laravel-usaepay",
+    "homepage": "https://github.com/findrow/laravel-usaepay",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -22,7 +22,7 @@
         }
     },
     "require": {
-        "illuminate/support": "~5"
+        "illuminate/support": "~6"
     },
     "minimum-stability": "dev"
 }
