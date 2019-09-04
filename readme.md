@@ -8,7 +8,7 @@ Installation
 
 Install using composer:
 
-    composer require jundelleb/laravel-usaepay
+    composer require findrow/laravel-usaepay
 
 Add the service provider in `app/config/app.php`:
 
