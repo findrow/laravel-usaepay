@@ -22,7 +22,7 @@
         }
     },
     "require": {
-        "illuminate/support": "~6"
+        "illuminate/support": "v6.0"
     },
     "minimum-stability": "dev"
 }
