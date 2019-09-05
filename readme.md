@@ -1,7 +1,7 @@
 Laravel - USAePay
 ========
 
-[![Latest Stable Version](https://poser.pugx.org/jundelleb/laravel-usaepay/v/stable)](https://packagist.org/packages/jundelleb/laravel-usaepay) [![Total Downloads](https://poser.pugx.org/jundelleb/laravel-usaepay/downloads)](https://packagist.org/packages/jundelleb/laravel-usaepay) [![Latest Unstable Version](https://poser.pugx.org/jundelleb/laravel-usaepay/v/unstable)](https://packagist.org/packages/jundelleb/laravel-usaepay) [![License](https://poser.pugx.org/jundelleb/laravel-usaepay/license)](https://packagist.org/packages/jundelleb/laravel-usaepay)
+[![Latest Stable Version](https://poser.pugx.org/findrow/laravel-usaepay/v/stable)](https://packagist.org/packages/findrow/laravel-usaepay) [![Total Downloads](https://poser.pugx.org/findrow/laravel-usaepay/downloads)](https://packagist.org/packages/findrow/laravel-usaepay) [![Latest Unstable Version](https://poser.pugx.org/findrow/laravel-usaepay/v/unstable)](https://packagist.org/packages/findrow/laravel-usaepay) [![License](https://poser.pugx.org/findrow/laravel-usaepay/license)](https://packagist.org/packages/findrow/laravel-usaepay)
 
 Installation
 ------------
