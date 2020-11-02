@@ -162,7 +162,8 @@ class Client
     	$options = [
 		    'trace' => $this->debug,  
 		    'exceptions' => $this->debug,
-		    'encoding' => 'UTF-8',
+				'encoding' => 'UTF-8',
+		    'cache_wsdl' => WSDL_CACHE_BOTH, // disk + memory (defaults to disk)
 		];
 
     	return $this->soap = new SoapClient($this->wsdl(), $options);
