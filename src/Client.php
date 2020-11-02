@@ -163,7 +163,6 @@ class Client
 		    'trace' => $this->debug,  
 		    'exceptions' => $this->debug,
 		    'encoding' => 'UTF-8',
-				'cache_wsdl' => WSDL_CACHE_NONE,
 		];
 
     	return $this->soap = new SoapClient($this->wsdl(), $options);
